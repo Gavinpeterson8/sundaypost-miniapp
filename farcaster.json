@@ -1,0 +1,11 @@
+{
+  "name": "Sunday Post",
+  "description": "Post once a week, every Sunday. Curate your week into a single creative snapshot.",
+  "icon": "https://<your-github-name>.github.io/icon.png",
+  "splashImage": "https://<your-github-name>.github.io/splash.png",
+  "homePageUrl": "https://<your-github-name>.github.io/",
+  "app": {
+    "type": "post",
+    "postUrl": "https://<your-github-name>.github.io/"
+  }
+}
