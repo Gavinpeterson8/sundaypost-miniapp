@@ -1,26 +1,14 @@
 {
-  "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
-  },
   "frame": {
     "version": "1",
     "name": "Sunday Post",
-    "subtitle": "Your weekly reset ritual",
-    "description": "A Farcaster miniapp that helps you reflect, reset, and plan the week ahead.",
-    "iconUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/assets/icon.png",
-    "homeUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/",
-    "splashImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/assets/splash.png",
+    "iconUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/icon.png",
+    "homeUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/index.html",
+    "splashImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/assets/hero.png",
-    "tagline": "Reflect. Reset. Rebuild the week ahead.",
-    "screenshotUrls": [
-      "https://gavinpeterson8.github.io/sundaypost-miniapp/assets/screenshot1.png",
-      "https://gavinpeterson8.github.io/sundaypost-miniapp/assets/screenshot2.png"
-    ],
-    "primaryCategory": "productivity",
-    "tags": ["planning", "journaling"],
-    "webhookUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/api/webhook"
+    "primaryCategory": "media",
+    "description": "Daily news delivered in a clean miniapp format.",
+    "tags": []
   }
 }
+
