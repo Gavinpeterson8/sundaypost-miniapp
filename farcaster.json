@@ -1,11 +1,11 @@
 {
   "name": "Sunday Post",
-  "description": "Post once a week, every Sunday. Curate your week into a single creative snapshot.",
-  "icon": "https://<your-github-name>.github.io/icon.png",
-  "splashImage": "https://<your-github-name>.github.io/splash.png",
-  "homePageUrl": "https://<your-github-name>.github.io/",
+  "description": "Post once a week, every Sunday. Curate your week into a single creative snapshot of your week.",
+  "icon": "https://gavinpeterson8.github.io/icon.png",
+  "splashImage": "https://gavinpeterson8.github.io/splash.png",
+  "homePageUrl": "https://gavinpeterson8.github.io/",
   "app": {
     "type": "post",
-    "postUrl": "https://<your-github-name>.github.io/"
+    "postUrl": "https://gavinpeterson8.github.io/"
   }
 }
