@@ -1,0 +1,13 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Sunday Post",
+    "iconUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/icon.png",
+    "homeUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/index.html",
+    "splashImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/splash.png",
+    "splashBackgroundColor": "#FAF3E0",
+    "primaryCategory": "media",
+    "description": "Capture your week, every Sunday. A ritual of reflection and creativity.",
+    "tags": []
+  }
+}
