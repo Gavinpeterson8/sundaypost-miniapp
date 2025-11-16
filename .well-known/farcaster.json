@@ -1,0 +1,8 @@
+{
+  "type": "farcaster.json",
+  "version": "1.0.0",
+  "name": "Sunday Post Miniapp",
+  "icon": "https://gavinpeterson8.github.io/sundaypost-miniapp/icon.png",
+  "splash": "https://gavinpeterson8.github.io/sundaypost-miniapp/splash.png",
+  "home_page": "https://gavinpeterson8.github.io/sundaypost-miniapp/index.html"
+}
