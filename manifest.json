@@ -1,0 +1,32 @@
+{
+  "frame": {
+    "name": "Sunday Post",
+    "version": "1",
+    "iconUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/icon.png",
+    "homeUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/",
+    "imageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/image.png",
+    "buttonTitle": "Open Mini App",
+    "splashImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/splash.png",
+    "splashBackgroundColor": "#f7f7f7",
+    "webhookUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/api/webhook",
+    "subtitle": "Share your world, every Sunday",
+    "description": "Post, Curate, share on Sunday",
+    "screenshotUrls": [
+      "https://gavinpeterson8.github.io/sundaypost-miniapp/screenshot1.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "social"
+    ],
+    "heroImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/hero.png",
+    "tagline": "A curated week shared Sunday",
+    "ogTitle": "Sunday Post – Simple Share",
+    "ogDescription": "A weekly recap every Sunday",
+    "ogImageUrl": "https://gavinpeterson8.github.io/sundaypost-miniapp/og-image.png"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjIxNjQ1MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweGU3NWU0M2RBM2E4NkMyYkVmQWM2NkRlNzdEMjYzNTVkMzBiRmVGMzQifQ",
+    "payload": "eyJkb21haW4iOiI3NmE1Y2NkNS1lMGM3LTRkMzQtOTRlMy0yZThlNjNiNzE1NTQubWluaWRldi5mdW4ifQ",
+    "signature": "1pvzHIYESexI0d3f8pkdLyGDuN0ts1RuZYdIgXpEKkNxEyQtjkE+bhmp1uAwJYsjwp63AaS3cGsbCmMfmilkRxw="
+  }
+}
